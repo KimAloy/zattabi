@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223991609770",
+    "project_id": "zattabi-120b1",
+    "storage_bucket": "zattabi-120b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223991609770:android:25c68764e8520923bcd3d3",
+        "android_client_info": {
+          "package_name": "com.example.zattabi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223991609770-o9g8r5ghpr1csiqoq9cnrabqrd51hkf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY93DK13NvIxo5qy_1PAZdfGN6oIPbLN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223991609770-o9g8r5ghpr1csiqoq9cnrabqrd51hkf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
